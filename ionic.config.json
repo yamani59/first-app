@@ -1,0 +1,8 @@
+{
+  "name": "firstApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "b7ec26b2"
+}
